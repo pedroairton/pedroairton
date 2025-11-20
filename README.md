@@ -2,6 +2,17 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&letterSpacing=1px&duration=4000&pause=1000&color=21DF5D&center=true&width=1000&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Pedro+Airton.;Bem+vindo+ao+meu+perfil!" alt="Typing SVG" /></a>
 
+<h2 align="center">Informações</h2>
+
+<div align="center">
+  <ul>
+    <li>Graduado em Análise e Desenvolvimento de Sistemas - <b>Faculdade SENAC-PE</b></li>
+  </ul>
+  <ul>
+    <li>Desenvolvedor Front-end - <b>Zaite Tecnologia</b></li>
+  </ul>
+</div>
+
 <h2 align="center">Tecnologias que utilizo atualmente</h2>
 <div align="center">
   <a>
@@ -66,6 +77,17 @@
     <img src="https://camo.githubusercontent.com/e2a58fa150850c12f8b8785212c8becf348cfbbfbe789ccb24e8b97bd166d6cf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974" alt="Git" data-canonical-src="https://skillicons.dev/icons?i=git" style="max-width: 100%;">
   </a>
   
+</div>
+
+<h2 align="center">Contato</h2>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/pedro-airton/" target="_blank">
+    <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg">
+  </a>
+  <a href="mailto:pedroairton01@gmail.com">
+    <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg">
+  </a>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=21df5d&reversal=false&section=footer">
